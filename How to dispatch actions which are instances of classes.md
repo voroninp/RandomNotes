@@ -31,6 +31,8 @@ That's fine, but if we use Redux-Saga, it's better to get action back as a class
 
 For that we need to create a wrapper for saga middleware:
 
+(the example was found [here](https://gist.github.com/keeth/96b97c6cf890187d0b17d98ce9d4fbd4))
+
 ```js
 import createSagaMiddleware from "redux-saga";
 import { Action } from "../actions/Actions";
