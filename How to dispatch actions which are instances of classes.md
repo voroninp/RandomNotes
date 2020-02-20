@@ -50,7 +50,7 @@ function createSagaMiddlewareWithActionPreprocessor(actionPreprocessor) {
       // send to reducers, keep the result
       const result = next(action);
 
-      action = actionPreprocesor(action);
+      action = actionPreprocessor(action);
 
       if (action){
         actionHandler(action);
