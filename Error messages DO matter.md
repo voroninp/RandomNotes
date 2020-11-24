@@ -11,7 +11,7 @@ and discover how many people have hit this problem, which probably won't occur, 
 
 > Maybe you meant the <em>relative<em/> path rather than the module.
 
----------
+======
 
 Another example is [here](https://github.com/dotnet/fsharp/issues/9490#issue-640921496): Let's name function `Seq.take`
 similar to `Enumerable.Take`, but change its semantics, so it throws, if sequence has fewer than `n` elements. 
