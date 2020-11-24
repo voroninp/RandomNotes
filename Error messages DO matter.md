@@ -9,7 +9,7 @@ Search for this text:
 
 and discover how many people have hit this problem, which probably won't occur, if message was augmented with this:
 
-> Maybe you meant the <em>relative<em/> path rather than the module.
+> Maybe you meant the <em>relative</em> path rather than the module.
 
 ----
 
